@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/kubragogebakan/myfirstproject/_apis/build/status/kubragogebakan.pipelines-java?branchName=master)](https://dev.azure.com/kubragogebakan/myfirstproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
